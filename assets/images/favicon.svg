@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>favicon-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #f6a319;stroke-linecap: round;stroke-linejoin: round;stroke-width: 16.8 } 
+		.s1 { fill: #272726 } 
+		.s2 { fill: #f6a319;stroke: #f6a319;stroke-linecap: round;stroke-linejoin: round;stroke-width: 16.8 } 
+	</style>
+	<path id="&lt;Path&gt;" class="s0" d="m477 400.7v-190.3l-221.5-99.4"/>
+	<path id="&lt;Path&gt;" class="s1" d="m432.5 400.7v-113.8l-132.5-59.5v173.3"/>
+	<path id="&lt;Path&gt;" class="s2" d="m255.5 111v289.7h-221.5v-190.3z"/>
+</svg>

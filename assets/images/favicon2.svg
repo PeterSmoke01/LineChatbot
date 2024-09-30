@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>favicon-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #f6a319;stroke-linecap: round;stroke-linejoin: round;stroke-width: 16 } 
+	</style>
+	<path id="&lt;Path&gt;" class="s0" d="m255.7 111v289.9h-221.7v-190.4z"/>
+	<path id="&lt;Path&gt;" class="s0" d="m477.4 400.9v-190.4l-221.7-99.5"/>
+	<path id="&lt;Path&gt;" class="s0" d="m432.8 400.9v-113.9l-132.5-59.5v173.4"/>
+</svg>
